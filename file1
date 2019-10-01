@@ -1,10 +1,21 @@
+<<<<<<< HEAD
 hi 
 testing!!!!!!!!!!!!
  iam prasad
  conflict##########
+=======
+hi
+adding new line #####
+ iam prasad
+ testing merge#####
+>>>>>>> 048b728e212a32631caecd6a3ef1766510607d2c
  workimg on devops
  i did btech from engg college
  i work from hyd
  i need aws
+<<<<<<< HEAD
 
 adding new lines
+=======
+conflict.
+>>>>>>> 048b728e212a32631caecd6a3ef1766510607d2c
